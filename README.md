@@ -16,7 +16,12 @@ Google does not currently provide a public API to check Gemini usage quota.
 - Optional background auto-sync on a configurable interval (15m–4h)
 - Configurable warning notifications at custom usage thresholds
 - Dark / light theme
-- Badge icon showing current daily usage %
+- **Badge icon** - the toolbar icon shows your current daily usage
+  percentage at a glance, no need to open the popup. Badge color
+  shifts as a warning cue:
+  - 🟢 Green - under 75% used
+  - 🟡 Amber - 75–89% used
+  - 🔴 Red - 90%+ used
 
 ## How it works
 

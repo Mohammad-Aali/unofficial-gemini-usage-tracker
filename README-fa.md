@@ -6,8 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04099bc5-f816-4c57-8603-c66d78fb191d" alt="Unofficial Gemini Usage Tracker Dashboard" width="45%" />
-  <img src="https://github.com/user-attachments/assets/1134dcdd-69c1-43dc-b0a2-4ce5dd7ecef1" alt="Unofficial Gemini Usage Tracker Settings" width="45%" />
+<img width="1536" height="1024" alt="Gemini Usage Tracker" src="https://github.com/user-attachments/assets/b80f0be2-73b1-436f-8f3b-cdc892249bfb" />
 </p>
 
 ---

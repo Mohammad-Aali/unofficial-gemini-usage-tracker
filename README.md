@@ -1,4 +1,4 @@
-# Unofficial Gemini Usage Tracker
+# 📊 Unofficial Gemini Usage Tracker
 
 A Chrome extension that displays your daily and weekly Google Gemini usage
 quota in a small Material Design popup, with optional background auto-sync
@@ -10,7 +10,7 @@ Google does not currently provide a public API to check Gemini usage quota.
 
 ---
 
-## Features
+## ✨ Features
 
 - Daily / weekly usage progress bars with reset time
 - Optional background auto-sync on a configurable interval (15m–4h)
@@ -23,7 +23,7 @@ Google does not currently provide a public API to check Gemini usage quota.
   - 🟡 Amber - 75–89% used
   - 🔴 Red - 90%+ used
 
-## How it works
+## ⚙️ How it works
 
 Google does not expose usage data through any documented API. The only
 place this data currently exists is on the rendered
@@ -83,7 +83,7 @@ most important thing to understand before installing:
   framing pattern, syncing will simply stop working (fail closed) rather
   than break in an unsafe way.
 
-## Installation (unpacked / developer mode)
+## 🚀 Installation (unpacked / developer mode)
 
 1. Download or clone this repo.
 2. Open `chrome://extensions`.
@@ -92,7 +92,7 @@ most important thing to understand before installing:
 5. Pin the extension and click the icon to open the popup.
 6. Click the sync icon to fetch your current usage.
 
-## Permissions used
+## 🔐 Permissions used
 
 | Permission | Why |
 |---|---|
@@ -103,7 +103,7 @@ most important thing to understand before installing:
 | `declarativeNetRequest` | Strip framing-prevention headers for `gemini.google.com/usage` only (see Security notes above) |
 | `host_permissions: gemini.google.com/*` | Required to read the usage page |
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 This is an unofficial, community-built tool, provided as-is, with no
 warranty. It is not produced, reviewed, or supported by Google. Use it at
